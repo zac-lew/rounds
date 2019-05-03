@@ -1,0 +1,10 @@
+.customer-container .drinks-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.customer-container .drinks-list button {
+  margin: 0.5em;
+  height: 50px;
+}
